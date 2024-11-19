@@ -1,6 +1,0 @@
-<?php 
-
-$formClub->afficherFormulaire();
-
-?>
-

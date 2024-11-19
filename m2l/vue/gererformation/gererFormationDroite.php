@@ -1,4 +1,0 @@
-<?php
-$formFormation->afficherFormulaire();
-
-

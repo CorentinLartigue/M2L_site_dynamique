@@ -1,6 +1,0 @@
-<?php 
-
-$formLigue->afficherFormulaire();
-
-?>
-
